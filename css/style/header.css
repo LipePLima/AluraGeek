@@ -1,22 +1,21 @@
 .cabecalho {
     background-color: var(--branco);
-    height: 4.5rem;
+    height: 4.5em;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .cabecalho__logo {
-    width: 6.25rem;
-    height: 1.75rem;
+    width: 100px;
+    height: 28px;
 }
 
 .cabecalho__botao {
-    font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 600;
-    width: 8.313rem;
-    height: 2.5rem;
+    width: 8.313em;
+    height: 2.5em;
     background-color: var(--branco);
     color: var(--azul01);
     border: 2px solid var(--azul01);
@@ -27,7 +26,7 @@
 }
 
 .cabecalho__image {
-    padding: 1rem;
+    padding: 1em;
 }
 
 .cabecalho__pesquisa-input {
@@ -36,7 +35,7 @@
 
 @media screen and (min-width: 768px) {
     .cabecalho {
-        padding: 0 2rem;
+        padding: 0 2em;
     }
 
     .container {
@@ -46,12 +45,11 @@
     }
 
     .cabecalho__pesquisa-input {
-        font-family: var(--fonte-principal);
         font-size: 14px;
         display: block;
-        width: 17rem;
-        height: 2.5rem;
-        padding-left: 1rem;
+        width: 17em;
+        height: 2.5em;
+        padding-left: 1em;
         border: none;
         border-radius: 20px;
         background: url("../../img/Icone-pesquisa2.jpg") #F5F5F5 no-repeat 95% 50%;
@@ -64,22 +62,22 @@
 
 @media screen and (min-width: 1080px) {
     .cabecalho {
-        padding: 0 9.75rem;
-        height: 7.188rem;
+        padding: 0 9.75em;
+        height: 7.188em;
     }
 
     .cabecalho__logo {
-        width: 11rem;
-        height: 3.125rem;
+        width: 11em;
+        height: 3.125em;
     }
 
     .cabecalho__pesquisa-input {
-        width: 24.563rem;
-        height: 2.5rem;
+        width: 24.563em;
+        height: 2.5em;
     }
 
     .cabecalho__botao {
-        width: 11.375rem;
-        height: 3.188rem;
+        width: 11.375em;
+        height: 3.188em;
     }
 }

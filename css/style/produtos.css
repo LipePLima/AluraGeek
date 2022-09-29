@@ -1,0 +1,26 @@
+.produtos {
+    padding: 1em;
+}
+
+.star__titulo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.star__titulo-titulo {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.star__titulo-botao {
+    width: 95px;
+    height: 16px;
+    border: none;
+    background: url("../../img/Vector.png") no-repeat var(--azul01);
+    background-position: 97% 80%;
+    background-color: var(--cor-principal);
+    color: var(--azul01);
+    font-weight: bold;
+    font-size: 14px;
+}

@@ -1,5 +1,6 @@
 @import url("style/header.css");
-@import url("style/main.css");
+@import url("style/banner.css");
+@import url("style/produtos.css");
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
 :root {
@@ -12,6 +13,7 @@
 
 body {
     background-color: var(--cor-principal);
+    font-family: var(--fonte-principal);
 }
 
 
