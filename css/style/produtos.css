@@ -1,19 +1,27 @@
 .produtos {
-    padding: 1em;
+    padding: 0 1em;
 }
 
-.star__titulo {
+.star__wars, .consoles, .diversos {
+    padding: 1.5em 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.titulo {
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.star__titulo-titulo {
+.titulo-titulo {
     font-weight: bold;
     font-size: 22px;
 }
 
-.star__titulo-botao {
+.titulo-botao {
     width: 95px;
     height: 16px;
     border: none;
@@ -23,4 +31,45 @@
     color: var(--azul01);
     font-weight: bold;
     font-size: 14px;
+}
+
+.produtos__info {
+    padding-top: 1em;
+}
+
+.produtos__info-titulo {
+    font-weight: 400;
+    font-size: 14px;
+    padding: .5em 0;
+}
+
+.produtos__info-valor {
+    font-weight: bold;
+    font-size: 16px;
+    padding-bottom: .4em;
+}
+
+.produtos__info-botao {
+    background-color: var(--cor-principal);
+    border: none;
+    color: var(--azul01);
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .produtos {
+        padding: 0 3em;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    .produtos {
+        padding: 0 10.75em;
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
