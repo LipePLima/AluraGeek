@@ -1,0 +1,74 @@
+.corpo__banner {
+    display: flex;
+    background: url("../../img/Hero-p.png") no-repeat center center;
+    width: 100%;
+    height: 12rem;
+    align-items: flex-end;
+}
+
+.banner__info {
+    color: var(--branco);
+    font-family: var(--fonte-principal);
+    padding: 1rem;
+}
+
+.banner__titulo {
+    font-size: 22px;
+    font-weight: bold;
+    padding: .2rem 0;
+}
+
+.banner__descricao {
+    font-size: 14px;
+    font-weight: 600;
+    padding: .5rem 0;
+}
+
+.banner__botao {
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+    font-size: 14px;
+    width: 7.438rem;
+    height: 2.5rem;
+    background-color: var(--azul01);
+    border: none;
+    color: var(--cor-principal);
+}
+
+@media screen and (min-width: 361px) {
+    .corpo__banner {
+        background: url("../../img/Hero-m.png") no-repeat center center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .corpo__banner {
+        height: 22rem;
+    }
+
+    .banner__info {
+        padding: 1rem 3rem;
+    }
+
+    .banner__titulo {
+        font-size: 52px;
+        padding: 1rem 0;
+    }
+
+    .banner__descricao {
+        font-size: 22px;
+        padding: 1rem 0;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .corpo__banner {
+        background: url("../../img/Hero.png") no-repeat center center;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    .banner__info {
+        padding: 1rem 10.75rem;
+    }
+}
