@@ -58,6 +58,10 @@
     padding: 0;
 }
 
+.produtos__adicionais {
+    display: none;
+}
+
 @media screen and (min-width: 768px) {
     .produtos {
         padding: 0 3em;
@@ -71,5 +75,9 @@
         padding: 0 10.75em;
         display: flex;
         flex-wrap: wrap;
+    }
+
+    .produtos__adicionais {
+        display: inline;
     }
 }

@@ -21,6 +21,11 @@
     border: 2px solid var(--azul01);
 }
 
+.cabecalho__botao-link {
+    text-decoration: none;
+    color: var(--azul01);
+}
+
 .cabecalho__botao:hover {
     background-color: var(--azul0);
 }

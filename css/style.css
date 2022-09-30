@@ -1,6 +1,8 @@
 @import url("style/header.css");
 @import url("style/banner.css");
 @import url("style/produtos.css");
+@import url("style/rodape.css");
+@import url("style/rodape-final.css");
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
 :root {
@@ -9,11 +11,16 @@
     --cor-principal: #F5F5F5;
     --azul01: #2A7AE4;
     --azul02: #D4E4FA;
+    --azul03: #EAF2FD;
 }
 
 body {
     background-color: var(--cor-principal);
     font-family: var(--fonte-principal);
+}
+
+button {
+    cursor: pointer;
 }
 
 
