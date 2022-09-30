@@ -1,17 +1,22 @@
 @import url("style/header.css");
 @import url("style/banner.css");
 @import url("style/produtos.css");
+@import url("style/main-rodape.css");
 @import url("style/rodape.css");
-@import url("style/rodape-final.css");
+@import url("style/login.css");
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
 :root {
     --fonte-principal: 'Raleway', sans-serif;
     --branco: #fff;
     --cor-principal: #F5F5F5;
+    --cinza: #dbdbdb;
     --azul01: #2A7AE4;
     --azul02: #D4E4FA;
+    --azul-hover1: #5595E9;
+    --azul-hover2: #D4E4FA;
     --azul03: #EAF2FD;
+    
 }
 
 body {

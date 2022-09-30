@@ -1,0 +1,46 @@
+.login {
+    height: 60vh;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login__titulo {
+    font-weight: bold;
+    color: #464646;
+}
+
+.login__email, .login__senha {
+    font-family: var(--fonte-principal);
+    width: 17.188em;
+    height: 2.563em;
+    margin: 1em 0;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0px 2px #C8C8C8;
+}
+
+.login__botao {
+    width: 109px;
+    height: 40px;
+    margin-bottom: 1em;
+    border: none;
+    background-color: var(--azul01);
+    color: var(--branco);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.login__botao:hover {
+    background-color: var(--azul-hover1);
+}
+
+@media screen and (min-width: 1080px) {
+    .login__email, .login__senha {
+        width: 26.438em;
+        height: 3.946em;
+    }
+}

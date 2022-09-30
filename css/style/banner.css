@@ -33,6 +33,10 @@
     color: var(--cor-principal);
 }
 
+.banner__botao:hover {
+    background-color: var(--azul-hover1);
+}
+
 @media screen and (min-width: 361px) {
     .corpo__banner {
         background: url("../../img/Hero-m.png") no-repeat center center;
