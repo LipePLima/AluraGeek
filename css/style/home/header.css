@@ -57,7 +57,7 @@
         padding-left: 1em;
         border: none;
         border-radius: 20px;
-        background: url("../../img/Icone-pesquisa2.jpg") #F5F5F5 no-repeat 95% 50%;
+        background: url("../../../img/Icone-pesquisa2.jpg") #F5F5F5 no-repeat 95% 50%;
     }
 
     .cabecalho__botao:hover {

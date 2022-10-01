@@ -1,9 +1,10 @@
-@import url("style/header.css");
-@import url("style/banner.css");
-@import url("style/produtos.css");
-@import url("style/main-rodape.css");
-@import url("style/rodape.css");
-@import url("style/login.css");
+@import url("style/home/header.css");
+@import url("style/home/banner.css");
+@import url("style/home/produtos.css");
+@import url("style/home/main-rodape.css");
+@import url("style/home/rodape.css");
+@import url("style/login/login.css");
+@import url("style/produtos/produtos.css");
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
 :root {
