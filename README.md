@@ -10,7 +10,7 @@ Nele temos:
 
 ## Descrição do projeto 
 
-<p align="center"><a href="https://aluragueek.vercel.app/"><img src="img\readme\logo-readme.svg" width="250px"></a></p>
+<p align="center"><a rel="external" target="_blank" href="https://aluragueek.vercel.app/"><img src="img\readme\logo-readme.svg" width="250px"></a></p>
 
 A empresa AluraGeek(empresa fictícia) está precisando trazer mais clientes e aumentar suas vendas, para isso desejam implementar um e-commerce e levar a empresa ao próximo patamar, se tornar mais digital. Por isso me contraram para cumprir com esse desafio e ajuda-los a conquistar este objetivo.
 
