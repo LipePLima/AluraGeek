@@ -21,31 +21,30 @@ Para isso, o projeto foi divido em 4 etapas(4 semanas).
 
   ![Status: desenvolvido](https://img.shields.io/badge/STATUS-Desenvolvido-success)
   
-  - **Home**: Página principal, com área de pesquisa, botão de login, conteudo subdivididos em categorias e rodapé personalizado;
-  - **Login**: Página Login, nesta página a empresa poderá iniciar seu login com usuário e senha;
-  - **Produtos**: Página Produtos, para administrar todos os produtos do e-commerce;
-  - **Edição**: Página de edição dos produtos, nela podemos adicionar um novo produto(Em desenvolvimento);
+  - [X] **Home**: Página principal, com área de pesquisa, botão de login, conteudo subdivididos em categorias e rodapé personalizado;
+  - [X] **Login**: Página Login, nesta página a empresa poderá iniciar seu login com usuário e senha;
+  - [X] **Produtos**: Página Produtos, para administrar todos os produtos do e-commerce;
+  - [ ] **Edição**: Página de edição dos produtos, nela podemos adicionar um novo produto;
    
 - **Segunda Semana**:
 
   ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+  
 - **Terceira Semana**:
 
   ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+  
 - **Quarta Semana**:
 
   ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
 
-
 ## Tecnologias
 
-  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  - ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 E para hospedagem do projeto:
 
-  - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 Para acompanhar o desenvolvimento do projeto [clique aqui](https://aluragueek.vercel.app/).
 
