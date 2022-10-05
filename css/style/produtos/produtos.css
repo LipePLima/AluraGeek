@@ -37,6 +37,34 @@
     justify-content: space-between;
 }
 
+.produtos__info2 {
+    padding: 0;
+}
+
+.produtos__icone {
+    position: relative;
+    top: 35px;
+    text-align: end;
+    height: 24px;
+    margin-right: 1em;
+}
+
+.botao__lixeira {
+    
+    border: none;
+    background: url(../../../img/lixeira.svg) no-repeat;
+    height: 1.4em;
+    width: 1.4em;
+    margin-right: 1em;
+}
+
+.botao__editor {
+    border: none;
+    background: url(../../../img/lapis.svg) no-repeat;
+    height: 1.6em;
+    width: 1.6em;
+}
+
 .produtos__info-codigo {
     font-family: var(--fonte-principal);
     font-size: 14px;
