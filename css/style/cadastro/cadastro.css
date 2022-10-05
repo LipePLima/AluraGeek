@@ -1,0 +1,9 @@
+.cabecalho__botao__adm{
+    font-size: 14px;
+    font-weight: 600;
+    width: 166px;
+    height: 40px;
+    background-color: var(--branco);
+    color: var(--azul01);
+    border: 2px solid var(--azul01);
+}
