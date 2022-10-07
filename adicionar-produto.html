@@ -21,7 +21,20 @@
     </header>
     <main>
         <section>
-            <h1>Adicionar novo produto</h1>
+            <form action="produtos.html" class="form">
+                <h1 class="form__titulo">Adicionar novo produto</h1>
+                <label for="iurl" class="form__nome">URL da image</label>
+                <input type="url" name="url" id="iurl" class="form__dados">
+                <label for="icategoria" class="form__nome">Categoria</label>
+                <input type="text" name="categoria" id="icategoria" class="form__dados">
+                <label for="inome" class="form__nome">Nome do Produto</label>
+                <input type="text" name="nome" id="inome" class="form__dados">
+                <label for="ipreco" class="form__nome">Preço do produto</label>
+                <input type="number" name="preço" id="ipreco" step="0.01" min="0.01" class="form__dados">
+                <label for="idescricao" class="form__nome">Descrição do produto</label>
+                <input type="text" name="descricao" id="idescricao" class="form__dados">
+            </form>
+            
             
         </section>
         <section class="rodape container">
@@ -42,7 +55,8 @@
             </article>
             <article class="fale-conosco">
                 <h1 class="fale-conosco__titulo">Fale conosco</h1>
-                <input type="text" name="name" id="iname" placeholder="  Nome" class="fale-conosco__nome">
+                <label for="iname" class="fale-conosco__nome-label">Nome</label>
+                <input type="text" name="name" id="iname" class="fale-conosco__nome">
                 <textarea name="mensagem" id="imsg" cols="30" rows="5" class="fale-conosco__msg" placeholder=" Escreva sua mensagem"></textarea>
                 <button type="submit" class="fale-conosco__botao">Enviar mensagem</button>
             </article>

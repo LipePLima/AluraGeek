@@ -40,14 +40,21 @@
 
 .fale-conosco__titulo {
     font-weight: bold;
-    padding-bottom: .5em;
+}
+
+.fale-conosco__nome-label {
+    color: var(--cinza-placeholder);
+    font-size: 12px;
+    padding: 0 1em;
+    position: relative;
+    top: 25px;
 }
 
 .fale-conosco__nome {
     font-family: var(--fonte-principal);
-    width: 100%;
+    width: 93%;
     height: 30px;
-    color: #A2A2A2;
+    padding: 26px 1em 0 1em;
     margin-bottom: 1em;
     border: none;
     border-radius: 4px;
@@ -55,7 +62,7 @@
 }
 
 .fale-conosco__nome::placeholder {
-    padding: 1em .4em;
+    padding: 0 .4em;
     color: var(--cinza-placeholder);
 }
 

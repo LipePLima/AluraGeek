@@ -20,12 +20,12 @@
         </header>
     </header>
     <main class="corpo">
-        <section class="login">
+        <form method="post" class="login">
             <h1 class="login__titulo">Iniciar Sessão</h1>
-            <input type="email" name="email" id="iemail" placeholder=" Escreva seu email" class="login__email">
-            <input type="password" name="senha" id="isenha" placeholder=" Escreva sua senha" class="login__senha">
-            <a href="produtos.html"><button class="login__botao">Entrar</button></a>
-        </section>
+            <input type="email" name="email" id="iemail" placeholder="Escreva seu email" class="login__email" required>
+            <input type="password" name="senha" id="isenha" placeholder="Escreva sua senha" class="login__senha" required>
+            <button class="login__botao"><a href="produtos.html" class="login__botao">Entrar</a></button>
+        </form>
         <section class="rodape container">
             <div class="rodape__container">
                 <div class="rodape__logo">
@@ -42,12 +42,13 @@
                     </ul>
                 </div>
             </div>
-            <div class="fale-conosco">
+            <article class="fale-conosco">
                 <h1 class="fale-conosco__titulo">Fale conosco</h1>
-                <input type="text" name="name" id="iname" placeholder="  Nome" class="fale-conosco__nome">
+                <label for="iname" class="fale-conosco__nome-label">Nome</label>
+                <input type="text" name="name" id="iname" class="fale-conosco__nome">
                 <textarea name="mensagem" id="imsg" cols="30" rows="5" class="fale-conosco__msg" placeholder=" Escreva sua mensagem"></textarea>
                 <button type="submit" class="fale-conosco__botao">Enviar mensagem</button>
-            </div>
+            </article>
         </section>
     </main>
     <footer class="rodape-final">

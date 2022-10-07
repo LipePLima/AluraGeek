@@ -6,7 +6,8 @@
 @import url("style/home/rodape.css");
 @import url("style/login/login.css");
 @import url("style/produtos/produtos.css");
-@import url("style/cadastro/cadastro.css");
+@import url("style/produtos/todos-produtos.css");
+@import url("style/adicionar/adicionar.css");
 
 :root {
     --fonte-principal: 'Raleway', sans-serif;

@@ -7,3 +7,9 @@
     color: var(--azul01);
     border: 2px solid var(--azul01);
 }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+}

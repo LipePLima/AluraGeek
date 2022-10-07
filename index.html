@@ -33,14 +33,14 @@
             <article class="star__wars">
                 <div class="titulo container">
                     <h2 class="titulo-titulo">Star Wars</h2>
-                    <button class="titulo-botao">Ver tudo</button>
+                    <a href="todos-produtos.html"><button class="titulo-botao">Ver tudo</button></a>
                 </div>
 
                 <div class="produtos__info">
                     <img src="img/Star-wars/produto1.png" alt="Produto XYZ" class="produtos__info-image">
                     <p class="produtos__info-titulo">Caneca Stormtrooper<p>
                     <p class="produtos__info-valor">R$ 69,99</p>
-                    <button class="produtos__info-botao">Ver produto</button>
+                    <a href="todos-produtos.html"><button class="titulo-botao">Ver tudo</button></a>
                 </div>
 
                 <div class="produtos__info">
@@ -82,7 +82,7 @@
             <article class="consoles" id="consoles">
                 <div class="titulo container">
                     <h2 class="titulo-titulo">Consoles</h2>
-                    <button class="titulo-botao">Ver tudo</button>
+                    <a href="todos-produtos.html"><button class="titulo-botao">Ver tudo</button></a>
                 </div>
 
                 <div class="produtos__info">
@@ -131,7 +131,7 @@
             <article class="diversos">
                 <div class="titulo container">
                     <h2 class="titulo-titulo">diversos</h2>
-                    <button class="titulo-botao">Ver tudo</button>
+                    <a href="todos-produtos.html"><button class="titulo-botao">Ver tudo</button></a>
                 </div>
 
                 <div class="produtos__info">
@@ -178,7 +178,7 @@
             </article>
         </section>
         <section class="rodape container">
-            <div class="rodape__container">
+            <article class="rodape__container">
                 <div class="rodape__logo">
                     <img src="img/Logo-rodape.jpg" alt="Logo AluraGueek">
                 </div>
@@ -192,13 +192,14 @@
                         <li class="lista-item"><a href="#" class="lista__link">Anuncie aqui</a></li>
                     </ul>
                 </div>
-            </div>
-            <div class="fale-conosco">
+            </article>
+            <article class="fale-conosco">
                 <h1 class="fale-conosco__titulo">Fale conosco</h1>
-                <input type="text" name="name" id="iname" placeholder="  Nome" class="fale-conosco__nome">
+                <label for="iname" class="fale-conosco__nome-label">Nome</label>
+                <input type="text" name="name" id="iname" class="fale-conosco__nome">
                 <textarea name="mensagem" id="imsg" cols="30" rows="5" class="fale-conosco__msg" placeholder=" Escreva sua mensagem"></textarea>
                 <button type="submit" class="fale-conosco__botao">Enviar mensagem</button>
-            </div>
+            </article>
         </section>
     </main>
     <footer class="rodape-final">

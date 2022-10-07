@@ -1,4 +1,4 @@
-$('div a').click(function(e){
+$('article>a').click(function(e){
 	e.preventDefault();
 	var id = $(ibanner__botao).attr('href'),
 			targetOffset = $(id).offset().top;
