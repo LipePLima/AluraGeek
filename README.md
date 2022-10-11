@@ -22,13 +22,18 @@ Para isso, o projeto foi divido em 4 etapas(4 semanas).
   ![Status: desenvolvido](https://img.shields.io/badge/STATUS-Desenvolvido-success)
   
   - [X] **Home**: Página principal, com área de pesquisa, botão de login, conteudo subdivididos em categorias e rodapé personalizado;
-  - [X] **Login**: Página Login, nesta página a empresa poderá iniciar seu login com usuário e senha;
-  - [X] **Produtos**: Página Produtos, para administrar todos os produtos do e-commerce;
-  - [ ] **Edição**: Página de edição dos produtos, nela podemos adicionar um novo produto;
+  
+  Na primeira semana, o foco principal foi o lado do cliente.
    
 - **Segunda Semana**:
 
-  ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+  ![Status: desenvolvido](https://img.shields.io/badge/STATUS-Desenvolvido-success)
+
+  - [X] **Login**: Página Login, nesta página a empresa poderá iniciar seu login com usuário e senha;
+  - [X] **Produtos**: Página Produtos, para administrar todos os produtos do e-commerce;
+  - [X] **Edição**: Página de edição dos produtos, nela podemos adicionar um novo produto;
+  
+  Na segunda semana, criamos todo o restante da AluraGueek, desta vez, o lado do administrador.
   
 - **Terceira Semana**:
 
