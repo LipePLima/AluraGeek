@@ -33,7 +33,7 @@ Para isso, o projeto foi divido em 4 etapas(4 semanas).
   - [X] **Produtos**: Página Produtos, para administrar todos os produtos do e-commerce;
   - [X] **Edição**: Página de edição dos produtos, nela podemos adicionar um novo produto;
   
-  Na segunda semana, criamos todo o restante da AluraGueek, desta vez, o lado do administrador.
+  Na segunda semana, criamos todo o restante da AluraGueek. Desta vez, o lado do administrador.
   
 - **Terceira Semana**:
 
