@@ -7,3 +7,9 @@
     align-items: center;
     background-color: var(--branco);
 }
+
+.rodape-final__copy__autor {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}

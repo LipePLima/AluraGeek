@@ -8,7 +8,7 @@
     border: 2px solid var(--azul01);
 }
 
-.form {
+.formulario__form {
     display: flex;
     flex-direction: column;
     padding: 1em;
@@ -44,3 +44,15 @@
     border: none;
     font-weight: 600;
 }
+
+@media screen and (min-width: 1080px) {
+    .formulario {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .formulario__form {
+        width: 559px;
+    }
+}
+

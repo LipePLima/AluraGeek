@@ -33,6 +33,10 @@
     font-size: 14px;
 }
 
+.titulo-botao:hover {
+    color: var(--azul-hover1);
+}
+
 .produtos__info {
     padding-top: 1em;
 }
@@ -56,6 +60,10 @@
     font-size: 14px;
     font-weight: bold;
     padding: 0;
+}
+
+.produtos__info-botao:hover {
+    color: var(--azul-hover1);
 }
 
 .produtos__adicionais {
