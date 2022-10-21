@@ -1,5 +1,12 @@
 # Challenge Front-End 5º Edição
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **AluraGueek**
+| :label: Tecnologias | html, css, javascript
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
 Desafio feito pela Escola de Tecnologia Alura, com o intuito de proporcionar uma experiência cotidiana de um profissional Dev e, testar e apromorar nosso conhecimento. 
 
 Nele temos:
