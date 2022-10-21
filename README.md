@@ -5,7 +5,7 @@
 | :sparkles: Nome        | **AluraGueek**
 | :label: Tecnologias | html, css, javascript
 | :rocket: URL         | https://aluragueek.vercel.app/
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://www.alura.com.br/challenges/front-end-5?host=https://cursos.alura.com.br
 
 Desafio feito pela Escola de Tecnologia Alura, com o intuito de proporcionar uma experiência cotidiana de um profissional Dev e, testar e apromorar nosso conhecimento. 
 
