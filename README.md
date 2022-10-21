@@ -57,7 +57,7 @@ Para acompanhar o desenvolvimento do projeto [clique aqui](https://aluragueek.ve
 
 <h3> :camera: Home</h3>
 
-![Home](https://user-images.githubusercontent.com/102830741/193422680-269e1a43-2257-4774-a8a4-0872361de661.png)
+![Home](https://user-images.githubusercontent.com/102830741/193422680-269e1a43-2257-4774-a8a4-0872361de661.png#vitrinedev)
 
 <h3> :camera: Login</h3>
 
@@ -67,15 +67,23 @@ Para acompanhar o desenvolvimento do projeto [clique aqui](https://aluragueek.ve
 
 ![Produtos](https://user-images.githubusercontent.com/102830741/193422925-e8367410-876e-4594-8cf1-04e8ebddf8b4.png)
 
-<h3> :camera: Cadastro de Produtos</h3>
+<h3> :camera: Editar e excluir produtos</h3>
 
-![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+![Editar e excluir produtos](https://user-images.githubusercontent.com/102830741/197083519-c7ed4ab3-4a72-4529-95e6-ffaabcfeed72.png)
+
+<h3> :camera: Adicionar produtos</h3>
+
+![Adicionar produtos](https://user-images.githubusercontent.com/102830741/197083603-a7596f23-f6a1-4541-a95a-9f059aac148d.png)
 
 ## Licensas
 
   ![Licensa MIT](https://img.shields.io/github/license/LipePLima/AluraGeek?style=for-the-badge)
 
-  Todos os direitos reservados a ©AluraGueek - 2022
+  Todos os direitos reservados a ©Felipe Lima - 2022 e ©Alura
+  
+## Depoimento
+
+Confesso que esse Challenger foi uma experiencia única para mim. Foi o primeiro desafio que participei da alura e foi extremamente gratificante pôr tudo que eu aprendi em prática e, principalmente, do meu jeito. Como muitos dizem, desenvolver é uma arte e cada um tem a sua individualidade presente no código, essa foi uma das partes mais especiais para mim. O JavaScript ainda não está concluido, pois é uma linguagem nova para mim e muito vasta. Vindo do python(básico), estou apanhando um pouquinho para conseguir assimilar tudo e enxergar o que pode e vai resolver o meu problema. Mas não muito em breve estarei voltando aqui para definir como concluidas as semanas 3 e 4, e também dizer aqui como foi!
   
 ## Contato | Redes Sociais
 
