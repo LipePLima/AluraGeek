@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **AluraGueek**
-| :label: Tecnologias | html, css, javascript
+| :label: Tecnologias | html, css, javascript, jquery
 | :rocket: URL         | https://aluragueek.vercel.app/
 | :fire: Desafio     | https://www.alura.com.br/challenges/front-end-5?host=https://cursos.alura.com.br
 
