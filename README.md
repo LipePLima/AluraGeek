@@ -42,13 +42,18 @@ Para isso, o projeto foi divido em 4 etapas(4 semanas).
   
   Na segunda semana, criamos todo o restante da AluraGueek. Desta vez, o lado do administrador.
   
-- **Terceira Semana**:
+- **Terceira Semana e quarta semana**:
 
   ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
+  - [ ] **Barra de pesquisa**: Adicionar funcionalidade;
+  - [ ] **Ver produto**: Adicionar funcionalidade;
+  - [ ] **Login**: Validação de formulário;
+  - [ ] **Adicionar novo produto**: Validação de formulário;
+  - [ ] **Fale conosco**: Validação de formulário;
+  - [ ] **Lista de produtos**: API;
+  - [ ] **Descrição do produto**: API;
+  - [ ] Ver tudo;
   
-- **Quarta Semana**:
-
-  ![Status: em desenvolvimento](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-blue)
 
 ## Tecnologias
 
