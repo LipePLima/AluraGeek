@@ -17,7 +17,7 @@ Nele temos:
 
 ## Descrição do projeto 
 
-<p align="center"><a href="https://aluragueek.vercel.app/"><img src="img\readme\logo-readme.svg#vitrinedev" width="250px"></a></p>
+<p align="center"><a href="https://aluragueek.vercel.app/"><img src="img\readme\logo-readme.svg" width="250px"></a></p>
 
 A empresa AluraGeek(empresa fictícia) está precisando trazer mais clientes e aumentar suas vendas, para isso desejam implementar um e-commerce e levar a empresa ao próximo patamar, se tornar mais digital. Por isso me contraram para cumprir com esse desafio e ajuda-los a conquistar este objetivo.
 
@@ -69,7 +69,7 @@ Para acompanhar o desenvolvimento do projeto [clique aqui](https://aluragueek.ve
 
 <h3> :camera: Home</h3>
 
-![Home](https://user-images.githubusercontent.com/102830741/193422680-269e1a43-2257-4774-a8a4-0872361de661.png)
+![Home](https://user-images.githubusercontent.com/102830741/193422680-269e1a43-2257-4774-a8a4-0872361de661.png#vitrinedev)
 
 <h3> :camera: Login</h3>
 
